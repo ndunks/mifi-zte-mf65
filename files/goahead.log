@@ -1,0 +1,585 @@
+[2229]: [wifi_profile2] is []..
+[2230]: [wifi_profile3] is []..
+[2231]: [wifi_profile4] is []..
+[2232]: [wifi_profile5] is []..
+[2233]: [wifi_profile_num] is [1]..
+[2244]:zte_wlan_spot_profile_update: write the nv failure..
+timemark_check=10. user_login_timemark=1770.
+timemark_check=10. user_login_timemark=1780.
+timemark_check=0. user_login_timemark=1790.
+timemark_check=0. user_login_timemark=1790.
+timemark_check=10. user_login_timemark=1790.
+timemark_check=0. user_login_timemark=1800.
+[1445]:zte_mgmt_login:psw:password.
+timemark_check=0. user_login_timemark=5570.
+timemark_check=10. user_login_timemark=5570.
+[1966]:ap_station_mode. orig=[dial_pref], new=[dial_pref].
+[1967]:wifi_sta_connection. orig=[], new=[1].
+[1993]:zte_wlan_sta_control: write the nv [ap_station_mode] failure..
+[2227]: web para:
+[wifi_profile] is [17206210766572897259,0,0,183,home,WPAPSKWPA2PSK,CCMP,oranganggo,0]..
+[2228]: [wifi_profile1] is []..
+[2229]: [wifi_profile2] is []..
+[2230]: [wifi_profile3] is []..
+[2231]: [wifi_profile4] is []..
+[2232]: [wifi_profile5] is []..
+[2233]: [wifi_profile_num] is [1]..
+[2244]:zte_wlan_spot_profile_update: write the nv failure..
+timemark_check=0. user_login_timemark=5600.
+timemark_check=20. user_login_timemark=5600.
+timemark_check=0. user_login_timemark=5620.
+timemark_check=0. user_login_timemark=5620.
+timemark_check=10. user_login_timemark=5620.
+[1445]:zte_mgmt_login:psw:password.
+timemark_check=0. user_login_timemark=240.
+timemark_check=10. user_login_timemark=240.
+timemark_check=30. user_login_timemark=250.
+timemark_check=0. user_login_timemark=280.
+[1119]:old_m_ssid_enable=0, m_ssid_enable=1.
+[1119]:old_m_ssid_enable=1, m_ssid_enable=1.
+[1119]:old_m_ssid_enable=1, m_ssid_enable=0.
+[370]:old_ssid=[TPPWF_4D2A7C], ssid=[TPPWF_4D2A7C]
+.
+[393]:old_HideSSID=[0], HideSSID=[0].
+[410]:old_MAX_Access_num=[5], MAX_Access_num=[2].
+[539]:pass_phrase_str:ODczNDc3ODhERA==.
+.
+[541]:login2 -> zte_password:87347788DD.
+.
+[551]:login3 -> zte_psw_admin:s%
+.
+[564]:wifi orig pwd.[WPAPSKWPA2PSK][TKIP CCMP][87347788DD]
+.
+[565]:wifi pwd changed.[WPAPSKWPA2PSK][TKIP CCMP][ODczNDc3ODhERA==]
+.
+[618]:is valid:[1][1]
+.
+[633]:wifi set cmd done!.
+[1119]:old_m_ssid_enable=0, m_ssid_enable=1.
+[674]:old_ssid=[TPPWF_4D2A7C_2], ssid=[TPPWF_4D2A7C_2]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[5], MAX_Access_num=[2].
+[1003]:pass_phrase_str:ODczNDc3ODhERA==.
+.
+[1005]:pass_phrase_str_decode:87347788DD.
+.
+[1015]:login3 -> zte_pass_phrase_str:s%
+.
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[TPPWF_4D2A7C_2], ssid=[AAA]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1003]:pass_phrase_str:ODczNDc3ODhERA==.
+.
+[1005]:pass_phrase_str_decode:87347788DD.
+.
+[1015]:login3 -> zte_pass_phrase_str:s%
+.
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[AAA], ssid=[AAA]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:"AAA"
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:'AAA'
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[AAA], ssid=[AAA]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1042]:zte_lan: security mode  is invalid.
+[1075]:call zte_lan_ssid1_security_set failure ..
+[674]:old_ssid=[AAA], ssid=[AAA]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[AAA], ssid=[AAA
+BB]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[1445]:zte_mgmt_login:psw:password.
+timemark_check=0. user_login_timemark=100.
+[1119]:old_m_ssid_enable=0, m_ssid_enable=1.
+[669]:Get Data is no Safe:ssid:"AAA"
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[TPPWF_4D2A7C_2], ssid=[%22AAA%22]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[5], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:\tAAA
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[%22AAA%22], ssid=[AAA B]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:AAA B"
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[AAA B], ssid=[AAA B]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[AAA B], ssid=[74657374]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:7465\n7374
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:7465\\t7374
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:7465\\\t7374
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:7465""7374
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aaa""aa
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aaa"""aa
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aaa\"aa
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aaa\\"aa
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aaa\\\"aa
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aaa\\\\"aa
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aaa'aa
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[74657374], ssid=[aaaaa]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[1445]:zte_mgmt_login:psw:password.
+[1119]:old_m_ssid_enable=1, m_ssid_enable=1.
+[580]:zte_lan: security mode[]  is invalid.
+[613]:call zte_lan_ssid1_security_set failure ..
+[580]:zte_lan: security mode[]  is invalid.
+[613]:call zte_lan_ssid1_security_set failure ..
+[674]:old_ssid=[aaaaa], ssid=[aaaaa]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[aaaaa], ssid=[aaaaavv]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[aaaaavv], ssid=[aaaaavv]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[aaaaavv], ssid=[aaaaavv]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[aaaaavv], ssid=[aaaaavv]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[aaaaavv], ssid=[aaaaavv]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[aaaaavv], ssid=[aaaaavv]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[aaaaavv], ssid=[aaaaavv]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[aaaaavv], ssid=[aaaaavv]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[aaaaavv], ssid=[aaaaavv]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[aaaaavv], ssid=[aaaaavv]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[aaaaavv], ssid=[aaaaavv]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[aaaaavv], ssid=[aaaaavv]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:ccc"
+ssid="vv
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[aaaaavv], ssid=[ccc]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:ccc\t
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[ccc], ssid=[vvv]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[vvv], ssid=[vvv+x]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[vvv+x], ssid=[vvv+x]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[vvv+x], ssid=[vvv x]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:vvv x""
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:vvv x''
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[vvv x], ssid=[kk
+xx]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[1445]:zte_mgmt_login:psw:password.
+timemark_check=0. user_login_timemark=60.
+[1119]:old_m_ssid_enable=0, m_ssid_enable=1.
+[669]:Get Data is no Safe:ssid:kk"
+ssid="xx
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:kk"
+ssid="xx
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[TPPWF_4D2A7C_2], ssid=[kk ssid=xx]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[5], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[kk ssid=xx], ssid=[kk
+ping 192.168.0.100
+ssid=xx]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[1445]:zte_mgmt_login:psw:password.
+[674]:old_ssid=[TPPWF_4D2A7C_2], ssid=[kk ping 192.168.0.100 ssid=xx]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[5], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[1119]:old_m_ssid_enable=0, m_ssid_enable=1.
+[674]:old_ssid=[kk ping 192.168.0.100 ssid=xx], ssid=[kk ping 192.168.0.100 ssid=xx]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[5], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:kk"&& ping 192.168.0.100 ssid=xx
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[kk ping 192.168.0.100 ssid=xx], ssid=[sss]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[sss], ssid=[ss
+s]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[1445]:zte_mgmt_login:psw:password.
+[1119]:old_m_ssid_enable=0, m_ssid_enable=1.
+[669]:Get Data is no Safe:ssid:ss"
+interface="s
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[TPPWF_4D2A7C_2], ssid=[ss
+interface=s]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[5], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[1445]:zte_mgmt_login:psw:password.
+[1119]:old_m_ssid_enable=0, m_ssid_enable=1.
+[669]:Get Data is no Safe:ssid:ss""
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:ss''
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[TPPWF_4D2A7C_2], ssid=[ss#A]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[5], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[ss#A], ssid=[ss #A $(id)]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[ss #A $(id)], ssid=[ss #A $?]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:ss "$$"
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[ss #A $?], ssid=[ss]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[ss], ssid=[ss `id`]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[ss `id`], ssid=[ss~!@#$%^&*()_+]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[ss~!@#$%^&*()_+], ssid=[ss/* ff]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[ss/* ff], ssid=[ss/* 0xff]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:ss/* 0xff"
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[ss/* 0xff], ssid=[ss/* 0xff%22]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:ss" "
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[ss/* 0xff%22], ssid=[ss]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:ss""x
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:ss"
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:ss\"
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:ss\\"
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:ss\
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[ss], ssid=[ss]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[ss], ssid=[xx]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:xx\'
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aa\x4f
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aa \ a
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[xx], ssid=[aa %2f a]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:aa \\ a
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aa \\\ a
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aa \\\\ a
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aa \\\\\ a
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aa \\\\\\ a
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aa \\\\\\\ a
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aa "\ a
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:aa \" a
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[aa %2f a], ssid=[aa * a]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[aa * a], ssid=[aa;]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:aa;\
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:ds;\
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[1119]:old_m_ssid_enable=1, m_ssid_enable=0.
+[1119]:old_m_ssid_enable=0, m_ssid_enable=1.
+[669]:Get Data is no Safe:ssid:ds;\\
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[aa;], ssid=[ds]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[5], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[ds], ssid=[ds]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[ds], ssid=[dsX]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[dsX], ssid=[dsX]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[dsX], ssid=[dsX]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[dsX], ssid=[dsXx]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:dsXx<
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:dsXx<`
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:dsXx" && ping 192.168.0.100 & #
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:dsXx
+" && ping 192.168.0.100 & #
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:dsXx";;;; && ping 192.168.0.100 & #
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[669]:Get Data is no Safe:ssid:dsXx"
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[dsXx], ssid=[dsXx || A]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[dsXx || A], ssid=[ds	UU]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[674]:old_ssid=[ds	UU], ssid=[d😊s	UU]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+[669]:Get Data is no Safe:ssid:d\😊s	UU
+.
+[1068]:zte_wlan_ssid1_set: set ssid1 basic failure ..
+[674]:old_ssid=[d😊s	UU], ssid=[d😊s	UU]
+.
+[690]:old_HideSSID=[0], HideSSID=[0].
+[707]:old_MAX_Access_num=[2], MAX_Access_num=[2].
+[1093]:wifi set cmd done!.
+timemark_check=20. user_login_timemark=1570.
+timemark_check=0. user_login_timemark=1620.
+timemark_check=70. user_login_timemark=1780.
+timemark_check=10. user_login_timemark=1850.
+[1445]:zte_mgmt_login:psw:password.
+[1445]:zte_mgmt_login:psw:password.
+timemark_check=0. user_login_timemark=2570.
+timemark_check=0. user_login_timemark=2570.

