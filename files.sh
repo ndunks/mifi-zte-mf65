@@ -30,3 +30,6 @@ curl -qs 'http://192.168.0.1/goform/goform_set_cmd_process' \
 --data-urlencode "OLD_NAME_SD_CARD=/web/file.bin" \
 --data-urlencode "NEW_NAME_SD_CARD=$1"
 echo ""
+
+# ./files.sh /web/userseting_nvconfig.txt
+# ./files.sh /nvconfig_debug

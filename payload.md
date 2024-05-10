@@ -33,8 +33,25 @@ path_SD_CARD_time:2024-05-07 13:31:30
 path_SD_CARD_time_unix:1715088691
 ```
 
+## ACtivate web SHare
+```
+isTest:false
+goformId:HTTPSHARE_MODE_SET
+mode_set:
+
+isTest:false
+goformId:GOFORM_HTTPSHARE_CHECK_FILE
+path_SD_CARD:/mmc2/
+
+isTest:false
+goformId:HTTPSHARE_AUTH_SET
+HTTP_SHARE_STATUS:Enabled
+HTTP_SHARE_WR_AUTH:readWrite
+HTTP_SHARE_FILE:/mmc2/
+```
+
 ```sh
 curl 'http://192.168.0.1/goform/goform_set_cmd_process' -D 'isTest=false&goformId=HTTPSHARE_ENTERFOLD&path_SD_CARD=/mmc2/&indexPage=1'
 
-watch bash '-c "curl -qs 'http://192.168.0.1/goform/goform_set_cmd_process' -d \"isTest=false&goformId=HTTPSHARE_ENTERFOLD&path_SD_CARD=/mmc2/&indexPage=1\" | jq \".result\""'
+watch bash '-c "curl -qs 'http://192.168.0.1/goform/goform_set_cmd_process' -d \"isTest=false&goformId=HTTPSHARE_ENTERFOLD&path_SD_CARD=/mmc2/s/&indexPage=1\" | jq \".result\""'
 ```
